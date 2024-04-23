@@ -1,0 +1,127 @@
+Company,Model,Drive,Fuel,Veh Class,City MPG,Hwy MPG,Cmb MPG,SmartWay,gear_num
+AUDI,Q4 40 e-tron,2WD,Electricity,standard SUV,30,36,33,Elite,1
+AUDI,Q4 50 e-tron quattro,4WD,Electricity,standard SUV,97,87,93,Elite,1
+AUDI,Q4 Sportback 50 e-tron quattro,4WD,Electricity,standard SUV,100,89,95,Elite,1
+AUDI,Q8 Sportback e-tron quattro,4WD,Electricity,standard SUV,84,90,87,Elite,2
+AUDI,Q8 Sportback e-tron ultra quattro,4WD,Electricity,standard SUV,84,89,86,Elite,2
+AUDI,Q8 e-tron quattro,4WD,Electricity,standard SUV,80,83,81,Elite,2
+AUDI,RS e-tron GT,4WD,Electricity,midsize car,85,85,85,Elite,2
+AUDI,SQ8 Sportback e-tron (20 in.wheels),4WD,Electricity,standard SUV,72,75,73,Elite,2
+AUDI,SQ8 Sportback e-tron (21/22 in.wheels),4WD,Electricity,standard SUV,62,63,63,Elite,2
+AUDI,SQ8 e-tron (20 in. wheels),4WD,Electricity,standard SUV,72,75,73,Elite,2
+AUDI,SQ8 e-tron (21/22 in.wheels),4WD,Electricity,standard SUV,62,63,63,Elite,2
+AUDI,e-tron GT,4WD,Electricity,midsize car,85,85,85,Elite,2
+BMW,"i4 M50 Gran Coupe (19"" Wheels)",4WD,Electricity,small car,94,98,95,Elite,1
+BMW,"i4 M50 Gran Coupe (20"" Wheels)",4WD,Electricity,small car,79,80,80,Elite,1
+BMW,i4 eDrive 35 Gran Coupe (19'' Wheels),2WD,Electricity,small car,111,107,110,Elite,1
+BMW,i4 eDrive35 Gran Coupe (18'' Wheels),2WD,Electricity,small car,122,119,120,Elite,1
+BMW,"i4 eDrive40 Gran Coupe (18"" Wheels)",2WD,Electricity,small car,109,108,109,Elite,1
+BMW,"i4 eDrive40 Gran Coupe (19"" Wheels)",2WD,Electricity,small car,100,99,100,Elite,1
+BMW,i4 xDrive40 Gran Coupe (18'' Wheels),4WD,Electricity,small car,107,111,109,Elite,1
+BMW,i4 xDrive40 Gran Coupe (19'' Wheels),4WD,Electricity,small car,98,100,99,Elite,1
+BMW,i5 M60 xDrive Sedan (19'' Wheels),4WD,Electricity,small car,90,93,91,Elite,1
+BMW,i5 M60 xDrive Sedan (20'' Wheels),4WD,Electricity,small car,89,90,89,Elite,1
+BMW,i5 M60 xDrive Sedan (21'' Wheels),4WD,Electricity,small car,85,86,85,Elite,1
+BMW,i5 eDrive40 Sedan (19'' Wheels),2WD,Electricity,small car,104,105,105,Elite,1
+BMW,i5 eDrive40 Sedan (20'' Wheels),2WD,Electricity,small car,99,98,99,Elite,1
+BMW,i5 eDrive40 Sedan (21'' Wheels),2WD,Electricity,small car,97,94,96,Elite,1
+BMW,i7 M70 xDrive Sedan (20'' Wheels),4WD,Electricity,large car,74,80,77,Elite,1
+BMW,i7 M70 xDrive Sedan (21'' Wheels),4WD,Electricity,large car,79,85,81,Elite,1
+BMW,i7 eDrive50 Sedan (19'' Wheels),2WD,Electricity,large car,87,95,90,Elite,1
+BMW,i7 eDrive50 Sedan (20'' Wheels),2WD,Electricity,large car,83,90,86,Elite,1
+BMW,i7 eDrive50 Sedan (21'' Wheels),2WD,Electricity,large car,86,92,88,Elite,1
+BMW,i7 xDrive60 Sedan (19'' Wheels),4WD,Electricity,large car,87,93,90,Elite,1
+BMW,i7 xDrive60 Sedan (20'' Wheels),4WD,Electricity,large car,82,87,84,Elite,1
+BMW,i7 xDrive60 Sedan (21'' Wheels),4WD,Electricity,large car,86,91,88,Elite,1
+BMW,iX M60 (21'' Wheels),4WD,Electricity,standard SUV,78,82,80,Elite,1
+BMW,iX M60 (22'' Wheels),4WD,Electricity,standard SUV,78,82,80,Elite,1
+BMW,iX xDrive40 (20'' Wheels),4WD,Electricity,standard SUV,87,85,86,Elite,1
+BMW,iX xDrive40 (21'' Wheels),4WD,Electricity,standard SUV,87,85,86,Elite,1
+BMW,iX xDrive40 (22'' Wheels),4WD,Electricity,standard SUV,87,85,86,Elite,1
+BMW,"iX xDrive50 (20"" Wheels)",4WD,Electricity,standard SUV,83,82,83,Elite,1
+BMW,"iX xDrive50 (21"" Wheels)",4WD,Electricity,standard SUV,83,82,83,Elite,1
+BMW,iX xDrive50 (22'' Wheels),4WD,Electricity,standard SUV,83,82,83,Elite,1
+CADILLAC,Lyriq,2WD,Electricity,small SUV,95,82,88,Elite,1
+CHEVROLET,Blazer EV,4WD,Electricity,small SUV,103,88,96,Elite,1
+CHEVROLET,Silverado EV,4WD,Electricity,pickup,67,59,63,Elite,1
+CHEVROLET,Silverado EV,4WD,Electricity,pickup,72,62,67,Elite,1
+CRUISE,Origin,2WD,Electricity,station wagon,42,42,42,Elite,1
+GENESIS,Electrified G80,4WD,Electricity,midsize car,105,89,97,Elite,1
+GENESIS,Electrified GV70,4WD,Electricity,small SUV,98,83,91,Elite,1
+GENESIS,GV60 Advanced (19'' Wheels),4WD,Electricity,small SUV,110,90,100,Elite,1
+GENESIS,GV60 Advanced (20'' Wheels),4WD,Electricity,small SUV,103,86,95,Elite,1
+GENESIS,GV60 Performance,4WD,Electricity,small SUV,97,82,90,Elite,1
+GENESIS,GV60 Standard,2WD,Electricity,small SUV,125,99,112,Elite,1
+GMC,Hummer EV Pickup,4WD,Electricity,pickup,59,48,53,Elite,1
+GMC,Hummer EV Pickup,4WD,Electricity,pickup,58,46,52,Elite,1
+GMC,Hummer EV Pickup MT Tires,4WD,Electricity,pickup,55,45,50,Elite,1
+GMC,Hummer EV Pickup MT Tires,4WD,Electricity,pickup,51,43,47,Elite,1
+GMC,Hummer EV SUV,4WD,Electricity,standard SUV,59,48,53,Elite,1
+GMC,Hummer EV SUV,4WD,Electricity,standard SUV,56,46,51,Elite,1
+GMC,Hummer EV SUV MT Tires,4WD,Electricity,standard SUV,55,45,50,Elite,1
+GMC,Hummer EV SUV MT Tires,4WD,Electricity,standard SUV,51,43,47,Elite,1
+HYUNDAI,Ioniq 5 Long range AWD,4WD,Electricity,small SUV,110,88,99,Elite,1
+HYUNDAI,Ioniq 5 Long range RWD,2WD,Electricity,small SUV,132,98,114,Elite,1
+HYUNDAI,Ioniq 5 Robo taxi,2WD,Electricity,small SUV,73,69,71,Elite,1
+HYUNDAI,Ioniq 5 Standard range RWD,2WD,Electricity,small SUV,127,94,110,Elite,1
+HYUNDAI,Ioniq 6 Long range AWD (18'' Wheels),4WD,Electricity,midsize car,130,111,121,Elite,1
+HYUNDAI,Ioniq 6 Long range AWD (20'' Wheels),4WD,Electricity,midsize car,111,94,103,Elite,1
+HYUNDAI,Ioniq 6 Long range RWD (18'' Wheels),2WD,Electricity,midsize car,153,127,140,Elite,1
+HYUNDAI,Ioniq 6 Long range RWD (20'' Wheels),2WD,Electricity,midsize car,129,105,117,Elite,1
+HYUNDAI,Ioniq 6 Standard Range RWD,2WD,Electricity,midsize car,151,120,135,Elite,1
+HYUNDAI,Kona Electric Long Range,2WD,Electricity,small SUV,129,103,116,Elite,1
+HYUNDAI,Kona Electric Standard Range,2WD,Electricity,small SUV,131,105,118,Elite,1
+HYUNDAI,NEXO,2WD,Hydrogen,small SUV,59,54,57,Elite,1
+HYUNDAI,NEXO Blue,2WD,Hydrogen,small SUV,65,58,61,Elite,1
+JAGUAR,I-PACE EV400 (20 inch tires),4WD,Electricity,small SUV,89,82,85,Elite,1
+JAGUAR,I-PACE EV400 (22 inch tire),4WD,Electricity,small SUV,79,72,76,Elite,1
+JAGUAR,I-PACE EV400 SDS,4WD,Electricity,small SUV,79,71,75,Elite,1
+KIA,EV6 GT,4WD,Electricity,small SUV,88,77,83,Elite,1
+KIA,EV6 Long Range,2WD,Electricity,small SUV,134,101,117,Elite,1
+KIA,EV6 Long Range AWD (19'' Wheels),4WD,Electricity,small SUV,120,98,109,Elite,1
+KIA,EV6 Long Range AWD (20'' Wheels),4WD,Electricity,small SUV,106,86,96,Elite,1
+KIA,EV6 Standard Range,2WD,Electricity,small SUV,136,100,117,Elite,1
+KIA,EV9 Long Range AWD,4WD,Electricity,standard SUV,91,75,83,Elite,1
+KIA,EV9 Long Range AWD GT-Line,4WD,Electricity,standard SUV,88,72,80,Elite,1
+KIA,EV9 Long Range RWD,2WD,Electricity,standard SUV,100,78,89,Elite,1
+KIA,EV9 Standard Range RWD,2WD,Electricity,standard SUV,99,77,88,Elite,1
+KIA,Niro Electric,2WD,Electricity,small SUV,126,101,113,Elite,1
+LUCID,"Air Pure RWD w/19"" wheels",2WD,Electricity,large car,140,134,137,Elite,1
+LUCID,"Air Pure RWD w/20"" wheels",2WD,Electricity,large car,134,126,130,Elite,1
+LUCID,Air Sapphire AWD,4WD,Electricity,large car,108,101,105,Elite,1
+MERCEDES-BENZ,AMG EQE 4Matic+,4WD,Electricity,standard SUV,77,71,74,Elite,1
+MERCEDES-BENZ,AMG EQE 4Matic+,4WD,Electricity,midsize car,73,74,73,Elite,1
+MERCEDES-BENZ,AMG EQS 4Matic+,4WD,Electricity,large car,79,85,82,Elite,1
+MERCEDES-BENZ,EQE 350 4Matic,4WD,Electricity,midsize car,86,96,90,Elite,1
+MERCEDES-BENZ,EQE 350+,2WD,Electricity,midsize car,98,94,96,Elite,1
+MERCEDES-BENZ,EQS 680 4MATIC Maybach (SUV),4WD,Electricity,standard SUV,75,77,76,Elite,1
+MINI,Cooper SE Hardtop,2WD,Electricity,small car,119,100,110,Elite,1
+NISSAN,Leaf,2WD,Electricity,midsize car,123,99,111,Elite,1
+NISSAN,Leaf SV,2WD,Electricity,midsize car,121,98,109,Elite,1
+POLESTAR,2 Dual Motor (19 Inch Wheels),4WD,Electricity,midsize car,112,100,106,Elite,1
+POLESTAR,2 Dual Motor (20 Inch Wheels),4WD,Electricity,midsize car,108,96,102,Elite,1
+POLESTAR,2 Dual Motor Performance Pack,4WD,Electricity,midsize car,100,90,95,Elite,1
+POLESTAR,2 Single Motor (19 Inch Wheels),2WD,Electricity,midsize car,124,106,115,Elite,1
+POLESTAR,2 Single Motor (20 Inch Wheels),2WD,Electricity,midsize car,119,102,111,Elite,1
+PORSCHE,Taycan 4 Cross Turismo,4WD,Electricity,midsize car,80,80,80,Elite,2
+PORSCHE,Taycan 4S Perf Battery Plus,4WD,Electricity,small car,79,81,80,Elite,2
+PORSCHE,Taycan 4S Performance Battery,4WD,Electricity,small car,82,82,82,Elite,2
+PORSCHE,Taycan GTS,4WD,Electricity,small car,83,82,83,Elite,2
+PORSCHE,Taycan GTS Sport Turismo,4WD,Electricity,small car,80,80,80,Elite,2
+PORSCHE,Taycan Perf Battery Plus,2WD,Electricity,small car,78,88,82,Elite,2
+PORSCHE,Taycan Performance Battery,2WD,Electricity,small car,79,88,83,Elite,2
+PORSCHE,Taycan Turbo,4WD,Electricity,small car,81,80,81,Elite,2
+PORSCHE,Taycan Turbo Cross Turismo,4WD,Electricity,midsize car,80,78,79,Elite,2
+PORSCHE,Taycan Turbo S,4WD,Electricity,small car,76,74,75,Elite,2
+PORSCHE,Taycan Turbo S Cross Turismo,4WD,Electricity,midsize car,76,74,75,Elite,2
+RIMAC,Nevera,4WD,Electricity,small car,54,56,55,Elite,1
+ROLLS-ROYCE,Black Badge Spectre (22'' Wheels),4WD,Electricity,small car,74,84,78,Elite,1
+ROLLS-ROYCE,Black Badge Spectre (23'' Wheels),4WD,Electricity,small car,71,77,73,Elite,1
+ROLLS-ROYCE,Spectre (22'' Wheels),4WD,Electricity,small car,77,86,81,Elite,1
+ROLLS-ROYCE,Spectre (23'' Wheels),4WD,Electricity,small car,71,79,74,Elite,1
+VINFAST,VF 9 Eco,4WD,Electricity,special purpose,79,71,75,Elite,1
+VINFAST,VF 9 Plus,4WD,Electricity,special purpose,71,66,69,Elite,1
+VOLVO,C40 Recharge,2WD,Electricity,small SUV,118,96,107,Elite,1
+VOLVO,C40 Recharge twin,4WD,Electricity,small SUV,106,91,99,Elite,1
+VOLVO,XC40 Recharge,2WD,Electricity,small SUV,118,95,106,Elite,1
+VOLVO,XC40 Recharge Twin,4WD,Electricity,small SUV,106,90,98,Elite,1
